@@ -1,0 +1,10 @@
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\bin\Debug\poeStashCheck.exe.config
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\bin\Debug\poeStashCheck.exe
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\bin\Debug\poeStashCheck.pdb
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.csprojAssemblyReference.cache
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.Form1.resources
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.Properties.Resources.resources
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.csproj.GenerateResource.cache
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.csproj.CoreCompileInputs.cache
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.exe
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.pdb
