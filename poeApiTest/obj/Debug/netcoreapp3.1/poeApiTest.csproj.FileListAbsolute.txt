@@ -1,0 +1,17 @@
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.AssemblyInfoInputs.cache
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.AssemblyInfo.cs
+C:\Users\Dan Helgeland\Source\Repos\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.genruntimeconfig.cache
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.csproj.CopyComplete
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.exe
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.deps.json
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.runtimeconfig.json
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.runtimeconfig.dev.json
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\DemoLibrary.pdb
+C:\Users\Dan Helgeland\source\repos\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.csprojAssemblyReference.cache
