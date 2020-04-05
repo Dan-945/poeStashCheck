@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dan Helgeland\\source\\repos\\poeStashCheck\\poeApiTest\\poeApiTest.csproj": {}
+    "C:\\Users\\Dan Helgeland\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\poeApiTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dan Helgeland\\source\\repos\\poeStashCheck\\poeApiTest\\poeApiTest.csproj": {
+    "C:\\Users\\Dan Helgeland\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\poeApiTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dan Helgeland\\source\\repos\\poeStashCheck\\poeApiTest\\poeApiTest.csproj",
+        "projectUniqueName": "C:\\Users\\Dan Helgeland\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\poeApiTest.csproj",
         "projectName": "DemoLibrary",
-        "projectPath": "C:\\Users\\Dan Helgeland\\source\\repos\\poeStashCheck\\poeApiTest\\poeApiTest.csproj",
+        "projectPath": "C:\\Users\\Dan Helgeland\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\poeApiTest.csproj",
         "packagesPath": "C:\\Users\\Dan Helgeland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dan Helgeland\\source\\repos\\poeStashCheck\\poeApiTest\\obj\\",
+        "outputPath": "C:\\Users\\Dan Helgeland\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Dan Helgeland\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -44,6 +41,10 @@
             "Microsoft.AspNet.WebApi.Client": {
               "target": "Package",
               "version": "[5.2.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [
