@@ -31,3 +31,20 @@ C:\Users\Dan Helgeland\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\ne
 C:\Users\Dan Helgeland\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\DemoLibrary.pdb
 C:\Users\Dan Helgeland\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.genruntimeconfig.cache
 C:\Users\Dan Helgeland\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.csproj.CoreCompileInputs.cache
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.exe
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.deps.json
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.runtimeconfig.json
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.runtimeconfig.dev.json
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.csprojAssemblyReference.cache
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.csproj.CoreCompileInputs.cache
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.AssemblyInfoInputs.cache
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.AssemblyInfo.cs
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.csproj.CopyComplete
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\DemoLibrary.pdb
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeApiTest\obj\Debug\netcoreapp3.1\poeApiTest.genruntimeconfig.cache

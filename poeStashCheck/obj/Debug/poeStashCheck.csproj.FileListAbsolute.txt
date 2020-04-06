@@ -13,3 +13,16 @@ C:\Users\Dan Helgeland\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug
 C:\Users\Dan Helgeland\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.Properties.Resources.resources
 C:\Users\Dan Helgeland\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.csproj.GenerateResource.cache
 C:\Users\Dan Helgeland\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.csproj.CoreCompileInputs.cache
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.csprojAssemblyReference.cache
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.Form1.resources
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.Properties.Resources.resources
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.csproj.GenerateResource.cache
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.csproj.CoreCompileInputs.cache
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\bin\Debug\poeStashCheck.exe.config
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\bin\Debug\poeStashCheck.exe
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\bin\Debug\poeStashCheck.pdb
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\bin\Debug\DemoLibrary.dll
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\bin\Debug\DemoLibrary.pdb
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.csproj.CopyComplete
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.exe
+C:\Users\dan_h\source\repos\Pyfrig\poeStashCheck\poeStashCheck\obj\Debug\poeStashCheck.pdb

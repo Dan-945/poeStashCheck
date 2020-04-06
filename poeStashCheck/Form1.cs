@@ -34,10 +34,10 @@ namespace poeStashCheck
 
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private async void textBox1_TextChanged(object sender, EventArgs e)
         {
             var poeInfo = await ApiProcessor.LoadpoeInformation();
-            textBox1.Text = poeInfo.accountName.ToString();
+            textBox1.Text = poeInfo.Results.accountName.ToString();
         }
     }
 }

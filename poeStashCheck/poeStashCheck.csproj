@@ -81,7 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\DemoLibrary\DemoLibrary.csproj">
-      <Project>{71fb0268-33c2-4f2f-a52b-fcface2b990e}</Project>
+      <Project>{e82018ce-c125-4e6c-b1de-7f8ecdb6d0ed}</Project>
       <Name>DemoLibrary</Name>
     </ProjectReference>
   </ItemGroup>

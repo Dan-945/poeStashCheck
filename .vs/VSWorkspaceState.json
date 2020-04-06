@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\poeApiTest"
+    "\\poeApiTest",
+    "\\poeStashCheck"
   ],
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

@@ -4503,19 +4503,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dan Helgeland\\.nuget\\packages\\": {}
+    "C:\\Users\\dan_h\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan Helgeland\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\poeApiTest.csproj",
+      "projectUniqueName": "C:\\Users\\dan_h\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\poeApiTest.csproj",
       "projectName": "DemoLibrary",
-      "projectPath": "C:\\Users\\Dan Helgeland\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\poeApiTest.csproj",
-      "packagesPath": "C:\\Users\\Dan Helgeland\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dan Helgeland\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\obj\\",
+      "projectPath": "C:\\Users\\dan_h\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\poeApiTest.csproj",
+      "packagesPath": "C:\\Users\\dan_h\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dan_h\\source\\repos\\Pyfrig\\poeStashCheck\\poeApiTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dan Helgeland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dan_h\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
